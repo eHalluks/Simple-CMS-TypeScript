@@ -1,10 +1,5 @@
 /*
 
-TODO: #2 Dokończyć walidację,
-TODO: #4 trzeba będzie wrzucić to na gita,
-
-OPCJONALNE JAKO OSOBNY COMMIT:
-
 TODO: # można by było spróbować może napisać jakieś testy do tego, tak w ramach nauki,
 TODO: # można pokminić coś z tym logowaniem i solą i hashem,
 TODO: # można pokminić może zapis do pliku albo coś żeby nie trzeba było dymać za każdym razem danych od nowa,
